@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-### 🔭 我目前正在做...ROS机械臂与SLAM建图的相关研究
+🔭 **我目前正在做...ROS机械臂与SLAM建图的相关研究**
 
-### 🌱 我现在正在学...计算机科学
+🌱 **我现在正在学...计算机科学**
 
-### 👯 我正在寻找合作...机器人的协同控制与规划
+👯 **我正在寻找合作...机器人的协同控制与规划**
+
+📫 **How to reach me: goayuan.zzrs123@gmail.com**
+
+🤭**这是我的博客：https://www.cnblogs.com/Roboduster/**
 
 <!--
 **zzrs123/zzrs123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
