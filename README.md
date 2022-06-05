@@ -12,6 +12,8 @@
 
 🤭**这是我的博客：https://www.cnblogs.com/Roboduster/**
 
+✌ **我的Gitee在这里：[mountain-and-river](https://gitee.com/mountain-and-river)，even thougn it looks pretty low right now.**
+
 <!--
 **zzrs123/zzrs123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
