@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-🔭 **我目前正在做...ROS机械臂与SLAM建图的相关研究**
+🔭 **我目前正在做：ROS机械臂与SLAM建图的相关研究**
 
-🌱 **我现在正在学...计算机科学**
+🌱 **我现在正在学：计算机科学**
 
-👯 **我正在寻找合作...机器人的协同控制与规划**
+😄 **最喜欢的事情：处理器设计、机器人算法与电控硬件**
+
+👯 **我正在寻找合作：[机器人的协同控制与规划](https://gitee.com/mountain-and-river/Air-Ground-Robots)**
 
 📫 **How to reach me: goayuan.zzrs123@gmail.com**
 
