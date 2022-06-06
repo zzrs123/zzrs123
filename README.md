@@ -4,6 +4,10 @@
 
 😄 **最喜欢的事情：处理器设计、机器人算法与电控硬件**
 
+- ⭐**处理器设计：[一生一芯计划进行中...](https://github.com/zzrs123/YSYX-Plan-Dgy)**
+- **🌙机器人算法：[空地协同进行中...](https://github.com/zzrs123/Air-Ground-Robots)**
+- ☀**电控硬件：正在学习单片机与PCB...**
+
 🌱 **我现在正在学：计算机科学与技术**
 
 👯 **我正致力于的项目：[机器人的协同控制与规划](https://github.com/zzrs123/Air-Ground-Robots)**
