@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+**:raising_hand:自我简介：Hard life, do not leave regret**。
+
 🔭 **我稍擅长的事情：ROS机械臂与SLAM建图的相关研究**
 
 😄 **最喜欢的事情：处理器设计、机器人算法与电控硬件**
 
-- ⭐**处理器设计：[一生一芯计划进行中...](https://github.com/zzrs123/YSYX-Plan-Dgy)**
-- **🌙机器人算法：[空地协同进行中...](https://github.com/zzrs123/Air-Ground-Robots)**
+- **⭐处理器设计：[一生一芯计划进行中...](https://github.com/zzrs123/YSYX-Plan-Dgy)，目前相当弱🐕**
+
+- **🌙机器人算法：[空地协同进行中...](https://github.com/zzrs123/Air-Ground-Robots)，迟早要把它做出来**
 - ☀**电控硬件：正在学习单片机与PCB...**
 
 🌱 **我现在正在学：计算机科学与技术**
