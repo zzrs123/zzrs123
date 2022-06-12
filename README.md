@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**:raising_hand:自我简介：Hard life, do not leave regret**。
+**:raising_hand:自我简介：Hard life. Don't leave regret.**
 
 🔭 **我稍擅长的事情：ROS机械臂与SLAM建图的相关研究**
 
