@@ -2,18 +2,9 @@
 
 **:raising_hand:自我简介：Hard life. Don't leave regret.**
 
-🔭 **我稍擅长的事情：ROS机械臂与SLAM建图的相关研究**
-
-😄 **最喜欢的事情：处理器设计、机器人算法与电控硬件**
-
-- **⭐处理器设计：[一生一芯计划进行中...](https://github.com/zzrs123/YSYX-Plan-Dgy)，目前相当弱🐕**
-
-- **🌙机器人算法：[空地协同进行中...](https://github.com/zzrs123/Air-Ground-Robots)，迟早要把它做出来**
-- ☀**电控硬件：正在学习单片机与PCB...**
+😄 **我的研究方向：数据库，大数据与数据管理**
 
 🌱 **我现在正在学：计算机科学与技术**
-
-👯 **我正致力于的项目：[机器人的协同控制与规划](https://github.com/zzrs123/Air-Ground-Robots)**
 
 📫 **How to reach me: goayuan.zzrs123@gmail.com**
 
