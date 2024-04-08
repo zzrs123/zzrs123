@@ -6,4 +6,4 @@
 
 📫 **How to reach me: goayuan.zzrs123@gmail.com**
 
-🤭**这是我的博客：https://www.cnblogs.com/Roboduster/**
+🤭**Here is my blog：https://www.cnblogs.com/Roboduster/**
