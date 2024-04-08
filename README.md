@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**:raising_hand:自我简介：Hard life. Don't leave regret.**
+**:raising_hand:Better!**
 
 😄 **Research interests：Database**
 
