@@ -2,7 +2,7 @@
 
 **:raising_hand:Better!**
 
-😄 **Research interests：Data mining**
+😄 **Research interests：Data Nining,Graph Representation Learning, Bioinformatics**
 
-📫 **How to reach me: goayuan.zzrs123@gmail.com**
+📫 **How to reach me: gaoyuan.zzrs123{AT}gmail.com**
 
